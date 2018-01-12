@@ -1,5 +1,6 @@
 # Assignment_Tasks
 These are the solution scripts of the Assignment for Internship position.
+
 Python Module:
 
 Python_Question_1: this solution script is for the first Question of Python Module.
